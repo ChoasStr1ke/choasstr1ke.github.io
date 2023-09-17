@@ -1,16 +1,14 @@
 ---
-title: "Galen Temperement In Rapier Sources"
+title: "Notes On Alfieri Rapier And Personality"
 date: 2023-09-17T12:44:08+03:00
 tags: ["destreza", "lvd"]
 ---
-
-## What are Galen's Temeperments
 
 ### Alfieri Take
 
 Idea
 
-- If you know this and can use it you will emerage victorious
+- If you know this and can use it you will emerge victorious
 - Massive difference between timid and reckless opponent
 - If we treat these two types of fencers the same we don't have knowledge of fencing
 
@@ -56,3 +54,8 @@ Idea
 - They have hot blood
 - lack patience
 - fueled by rage
+
+- Advice
+  - Don't attack them, wait in a strong stance
+  - Parry their blows with forte and strike after that retreat
+  - Make them more angry
