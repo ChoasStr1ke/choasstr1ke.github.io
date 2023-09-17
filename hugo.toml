@@ -2,3 +2,14 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Mohamed Yusuf'
 theme = 'PaperMod'
+
+[menu]
+[[menu.main]]
+    name = 'Archive'
+    url = '/archives'
+    weight = 5 
+[[menu.main]]
+    name = 'Tags'
+    url = 'tags/'
+    weight = 10
+
